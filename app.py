@@ -11,7 +11,7 @@ import auth
 
 #
 # # Create an ID column to use it to add behaviour
-df = pd.read_csv("Test.csv")
+df = pd.read_csv("test.csv")
 # # print(df.columns)
 # df["id"] = df["TotalPop"]
 # df.set_index("id", inplace=True, drop=False)
